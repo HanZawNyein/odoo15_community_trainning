@@ -1,0 +1,3 @@
+ROOT=F:/odoo-dev/odoo_structure
+PYTHON=$ROOT/env/Scripts/python ODOO=$ROOT/src/odoo/odoo-bin
+$PYTHON $ODOO -c $ROOT/odoo.conf
